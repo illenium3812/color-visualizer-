@@ -49,10 +49,12 @@ Integrating a wall painting application on an ecommerce website can help to incr
 This is a test case for calculation area of a small object(sticky notes) whose actual area is about 35 cm square. We will be using the application to find the area closest to the actual value. 
 
 ->First the user have to draw a line on the image.
+
 <img src="/Images/reference length.PNG" width="240"/>
 
 -> Then provide the reference length of that line in order to calculate the area of color swapped region. 
-<img src="providing length.PNG" width="240"/>
+
+<img src="/Images/providing length.PNG" width="240"/>
 
 The area calculated by the application was 33.23 cm square as shown in above image and actual area is 35 cm square. 
 
